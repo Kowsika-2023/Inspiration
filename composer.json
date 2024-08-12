@@ -1,0 +1,21 @@
+{
+    "name": "fhsinchy/inspire",
+    "description": "CRUD",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fhsinchy\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "edwardNinos",
+            "email": "edward@ninositsolution.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
